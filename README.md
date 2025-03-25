@@ -1,4 +1,3 @@
-%%writefile README.md
 # StockPulse: Stock Trend Prediction with Social Sentiment
 
 ![StockPulse Logo](images/stockpulse_logo.png) *(Optional: Add a logo later)*
