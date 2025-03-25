@@ -1,6 +1,6 @@
 # StockPulse: Stock Trend Prediction with Social Sentiment
 
-<img src="Screenshots/Logo.png" alt="StockPulse Logo" width="200" height="200">
+<img src="Screenshots/Logo.jpg" alt="StockPulse Logo" width="200" height="200">
 
 ## Overview
 **StockPulse** is a machine learning project that predicts stock price trends (up or down) by integrating historical stock data from Yahoo Finance with social media sentiment from Reddit. It uses a Long Short-Term Memory (LSTM) neural network to analyze 10-day sequences of closing prices and daily sentiment counts (positive, negative, neutral) from subreddits like `r/wallstreetbets`, `r/stocks`, and `r/investing`. Built in Google Colab with a Streamlit interface, it’s designed to run privately without public hosting.
