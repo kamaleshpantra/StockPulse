@@ -29,7 +29,7 @@
   - `praw`
 - **Credentials**: Reddit API `client_id` and `client_secret` ([reddit.com/prefs/apps](https://www.reddit.com/prefs/apps)).
 ### Responses Generated in Streamlit
-![Streamlit Responses](Screenshots/Screenshot 2025-04-04 223154.png)  
+<img src="Screenshots/Screenshot_2025-04-04_223154.png" alt="Streamlit Responses" width="600">
 *Caption: Stock trend evaluation displayed in the Streamlit UI.*
 
 
