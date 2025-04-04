@@ -28,6 +28,10 @@
   - `yfinance`
   - `praw`
 - **Credentials**: Reddit API `client_id` and `client_secret` ([reddit.com/prefs/apps](https://www.reddit.com/prefs/apps)).
+### Responses Generated in Streamlit
+![Streamlit Responses](Screenshots/Marketing_Responses.png)  
+*Caption: Reddit posts from `r/Marketing` with AI-generated responses displayed in the Streamlit UI.*
+
 
 ## Installation
 1. **Clone the Repository**:
