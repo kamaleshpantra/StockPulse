@@ -32,9 +32,3 @@
 <img src="Screenshots/Screenshot 2025-04-04 223154.png" alt="Streamlit Responses" width="600">
 *Caption: Stock trend evaluation displayed in the Streamlit UI.*
 
-
-## Installation
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/[your-username]/StockPulse.git
-   cd StockPulse
