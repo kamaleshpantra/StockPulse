@@ -1,8 +1,9 @@
 # 📈 StockPulse: AI-Driven Sentiment & Trend Predictor
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://stockpulse-bn8f.onrender.com)
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.18-orange.svg)](https://tensorflow.org)
+[![Deployment](https://img.shields.io/badge/Render-Live_App-brightgreen.svg)](https://stockpulse-bn8f.onrender.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 **StockPulse** is a sophisticated financial intelligence platform that fuses deep learning time-series forecasting with real-time social media sentiment analysis. By analyzing the intersection of historical market data and public crowd psychology (Reddit), StockPulse provides a unified "Signal Intelligence" to help investors navigate market volatility.
@@ -59,7 +60,7 @@ graph TD
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/StockPulse.git
+git clone https://github.com/kamaleshpantra/StockPulse.git
 cd StockPulse
 ```
 
@@ -101,7 +102,8 @@ docker run -p 8501:8501 stockpulse
 
 ---
 
-## 🌐 Cloud Deployment
+## 🌐 Live Demo
+You can access the live application here: **[stockpulse-bn8f.onrender.com](https://stockpulse-bn8f.onrender.com)**
 
 ### Deploying to Render
 This project is configured for easy deployment on [Render](https://render.com) using the included `render.yaml` Blueprint.
@@ -134,4 +136,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## 🤝 Contact
 Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
 
-Project Link: [https://github.com/yourusername/StockPulse](https://github.com/yourusername/StockPulse)
+Project Link: [https://github.com/kamaleshpantra/StockPulse](https://github.com/kamaleshpantra/StockPulse)
