@@ -1,0 +1,17 @@
+services:
+  - type: web
+    name: stockpulse
+    env: docker
+    plan: free # or starter
+    region: ohio # Change as needed
+    envVars:
+      - key: REDDIT_CLIENT_ID
+        sync: false
+      - key: REDDIT_CLIENT_SECRET
+        sync: false
+      - key: REDDIT_USER_AGENT
+        sync: false
+      - key: PYTHON_VERSION
+        value: 3.11.0
+    healthCheckPath: /
+    autoDeploy: true
