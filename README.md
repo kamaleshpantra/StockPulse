@@ -103,8 +103,7 @@ docker run -p 8501:8501 stockpulse
 ---
 
 ## 🌐 Live Demo
-You can access the live application here: **[stockpulse-bn8f.onrender.com](https://stockpulse-bn8f.onrender.com)**
-
+You can access the live application here: **[strangesteet.com](https://strangestreeet.onrender.com/)**
 ### Deploying to Render
 This project is configured for easy deployment on [Render](https://render.com) using the included `render.yaml` Blueprint.
 
